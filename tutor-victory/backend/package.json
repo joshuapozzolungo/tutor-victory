@@ -1,0 +1,15 @@
+{
+  "name": "Tutor Victory Backend",
+  "version": "1.0.0",
+  "description": "backend for Tutor Victory - my own tutoring business",
+  "license": "ISC",
+  "author": "Joshua Pozzolungo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
